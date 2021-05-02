@@ -20,6 +20,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?&style=flat&logo=codeigniter)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-000000?&style=flat&logo=Laravel)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)&nbsp;
