@@ -15,15 +15,15 @@
 </p>
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=plastic&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=plastic&logo=CSS3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=plastic&logo=javascript)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-000000?style=plastic&logo=MySQL)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-000000?style=plastic&logo=php)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?&style=flat&logo=codeigniter)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-000000?&style=flat&logo=Laravel)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-000000?style=plastic&logo=SASS)&nbsp;
-![TAILWIND](https://img.shields.io/badge/TailwindCSS-000000.svg?&style=plastic&logo=tailwind-css)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)&nbsp;
+![TAILWIND](https://img.shields.io/badge/TailwindCSS-000000.svg?&style=flat&logo=tailwind-css)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-000000?&style=flat&logo=bootstrap)&nbsp;
 ![node.js](https://img.shields.io/badge/Node.js-000000?&style=flat&logo=node.js)&nbsp;
 ![GIT](https://img.shields.io/badge/git-000000?&style=flat&logo=git)&nbsp;
