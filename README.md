@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-<h5 align="center">Some of the language and tools I have worked with<h5>
+<h5 align="center">Some of the language, frameworks, and tools I have worked with<h5>
 </p>
 
 
