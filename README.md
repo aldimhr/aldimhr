@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Aldi here! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="6px"></h1>
+<h1 align="center">Hi there, Aldi here!</h1>
 
 <br />
 
