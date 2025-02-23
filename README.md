@@ -16,7 +16,7 @@
 </p>
 
 <br />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--   
   <a href="https://leetcode.com/aldimhr/" target="_blank">
     <img align="center" alt="aldimhr's leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/leetcode.svg" height="30" width="40"  />
