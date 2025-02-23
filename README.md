@@ -16,8 +16,10 @@
 </p>
 
 <br />
+<a href="https://github.com/aldimhr">
+  <img height=200 align="center" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldimhr&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-<img align="center" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldimhr&layout=compact" />
 <!--   
   <a href="https://leetcode.com/aldimhr/" target="_blank">
     <img align="center" alt="aldimhr's leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/leetcode.svg" height="30" width="40"  />
