@@ -16,11 +16,13 @@
 </p>
 
 <br />
+<!--   
 <p align="center">
   <a href="https://github.com/aldimhr">
     <img height=200 align="center" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldimhr&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
+-->
 
 <!--   
   <a href="https://leetcode.com/aldimhr/" target="_blank">
