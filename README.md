@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, Aldi here!</h1>
 
 <br />
-<a href="https://wakatime.com/@66d6e42c-0ad4-4783-97c4-31347c3b6245"><img src="https://wakatime.com/badge/user/66d6e42c-0ad4-4783-97c4-31347c3b6245.svg" alt="Total time coded since Jan 2 2023" /></a>
-<br />
 
 <p align="center">
   
@@ -25,6 +23,10 @@
 -->
 
 <br />
+
+<a href="https://wakatime.com/@66d6e42c-0ad4-4783-97c4-31347c3b6245"><img src="https://wakatime.com/badge/user/66d6e42c-0ad4-4783-97c4-31347c3b6245.svg" alt="Total time coded since Jan 2 2023" /></a>
+<br />
+
 <!--   
 <p align="center">
   <a href="https://github.com/aldimhr">
