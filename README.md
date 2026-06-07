@@ -1,42 +1,36 @@
-<h1 align="center">Hi there, Aldi here!</h1>
-
-<br />
+<h1 align="center">Hi, I'm Aldi</h1>
 
 <p align="center">
-  
-<!-- 
-  <a href="https://www.codewars.com/users/aldimhr" target="_blank">
-    <img align="center" alt="aldimhr's codewars" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" height="30" width="40"  />
-  </a>  
--->
-  
-  <a href="https://aldimhr.medium.com/" target="_blank">
-    <img align="center" alt="aldimhr's medium" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40"  />
-  </a>
-
-  
-<!--   
-  <a href="https://www.hackerrank.com/aldimhr" target="_blank">
-    <img align="center" alt="aldimhr's leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" height="30" width="40"  />
-  </a> 
+  <strong>Software Engineer — QA</strong><br/>
+  I began in frontend, moved into QA, and now explore backend and system fundamentals.
 </p>
--->
 
-<br />
-
-<a href="https://wakatime.com/@66d6e42c-0ad4-4783-97c4-31347c3b6245"><img src="https://wakatime.com/badge/user/66d6e42c-0ad4-4783-97c4-31347c3b6245.svg" alt="Total time coded since Jan 2 2023" /></a>
-<br />
-
-<!--   
 <p align="center">
-  <a href="https://github.com/aldimhr">
-    <img height=200 align="center" alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldimhr&layout=compact&langs_count=8&card_width=320" />
+  <a href="https://aldimhr.dev">
+    <img alt="Website" src="https://img.shields.io/badge/🌐_aldimhr.dev-111111?style=flat&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aldimhr/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@aldimhr">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
   </a>
 </p>
--->
 
-<!--   
-  <a href="https://leetcode.com/aldimhr/" target="_blank">
-    <img align="center" alt="aldimhr's leetcode" src="https://cdn.jsdelivr.net/npm/simple-icons@6.23.0/icons/leetcode.svg" height="30" width="40"  />
-  </a> 
--->
+---
+
+### What I'm Working On
+
+**Datagen** — A tool to auto-generate dummy data from MSSQL queries by reading table relations, joins, foreign keys, and query logic. `In Progress`
+
+### Writing
+
+I publish technical notes and blog posts at [aldimhr.dev](https://aldimhr.dev) — covering C programming, data structures, system fundamentals, and dev tooling.
+
+---
+
+<p align="center">
+  <a href="https://wakatime.com/@66d6e42c-0ad4-4783-97c4-31347c3b6245">
+    <img src="https://wakatime.com/badge/user/66d6e42c-0ad4-4783-97c4-31347c3b6245.svg" alt="Total time coded since Jan 2 2023" />
+  </a>
+</p>
