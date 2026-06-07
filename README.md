@@ -26,6 +26,8 @@
 
 **Datagen** — Auto-generate dummy data from MSSQL queries by reading table relations, joins, foreign keys, and query logic. `In Progress`
 
+**[PolStocks](https://github.com/aldimhr/polstocks)** — Political sentiment analysis for stock market signals. Evidence-based sourcing with dedup and freshness decay.
+
 **Telegram Bots** — A collection of utility bots, open source and live on [@x0projects](https://t.me/x0projects):
 
 | Bot | Description |
