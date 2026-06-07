@@ -15,13 +15,25 @@
   <a href="https://medium.com/@aldimhr">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
   </a>
+  <a href="https://t.me/x0projects">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### What I'm Working On
+### Projects
 
-**Datagen** — A tool to auto-generate dummy data from MSSQL queries by reading table relations, joins, foreign keys, and query logic. `In Progress`
+**Datagen** — Auto-generate dummy data from MSSQL queries by reading table relations, joins, foreign keys, and query logic. `In Progress`
+
+**Telegram Bots** — A collection of utility bots, open source and live on [@x0projects](https://t.me/x0projects):
+
+| Bot | Description |
+|-----|-------------|
+| 📄 [@AIO_PDF_bot](https://github.com/aldimhr/bot-pdf-toolbox) | PDF tools — convert, merge, split, compress, OCR, watermark |
+| 🔬 [@Sci_Hubot](https://github.com/aldimhr/scihubot) | Download academic papers by DOI |
+| 📱 [@QRCode99_bot](https://github.com/aldimhr/qrcode-bot) | QR code generation, decoding, WiFi QR, logo embedding |
+| 🔐 [@locqr_bot](https://github.com/aldimhr/cipherx-bot) | Encrypt, decrypt, hash & generate passwords |
 
 ### Writing
 
