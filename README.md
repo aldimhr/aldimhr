@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer — QA</strong><br/>
-  I began in frontend, moved into QA, and now explore backend and system fundamentals.
+  I began in frontend, moved into QA, and now explore AI, backend and system fundamentals.
 </p>
 
 <p align="center">
