@@ -36,10 +36,10 @@
 | 📄 [@AIO_PDF_bot](https://github.com/aldimhr/bot-pdf-toolbox) | PDF tools — convert, merge, split, compress, OCR, watermark |
 | 📱 [@QRCode99_bot](https://github.com/aldimhr/qrcode-bot) | QR code generation, decoding, WiFi QR, logo embedding |
 | 🔐 [@locqr_bot](https://github.com/aldimhr/cipherx-bot) | Encrypt, decrypt, hash & generate passwords |
-| 📊 [@PolStockSignalBot](https://github.com/aldimhr/polstock-bot) | Political sentiment → stock market signals |
-| 💼 [@QAJobsID_bot](https://github.com/aldimhr/qajobbot) | QA/testing job scraper — LinkedIn, Glints, Remote OK & more |
-| 📚 [@scihubot](https://github.com/aldimhr/scihubot) | Free access to 80M+ research papers |
-| 📲 [@smdownbot](https://github.com/aldimhr/smdownbot) | Download videos from YouTube, Instagram, TikTok |
+| 📊 [@polstockbot](https://github.com/aldimhr/polstock-bot) | Political sentiment → stock market signals |
+| 💼 [@QA_JOBOT](https://github.com/aldimhr/qajobbot) | QA/testing job scraper — LinkedIn, Glints, Remote OK & more |
+| 📚 [@Sci_Hubot](https://github.com/aldimhr/scihubot) | Free access to 80M+ research papers |
+| 📲 [@sociodabot](https://github.com/aldimhr/smdownbot) | Download videos from YouTube, Instagram, TikTok |
 | 🎬 [YT Clipper](https://github.com/aldimhr/yt-clipper) | AI highlight extraction & vertical reframing |
 
 ### Writing
