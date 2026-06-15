@@ -5,7 +5,14 @@
   I began in frontend, moved into QA, and now explore AI, backend and system fundamentals.
 </p>
 
-<p align="center">
+---
+
+🌐 Portfolio: https://aldimhr.dev  
+💼 LinkedIn: https://linkedin.com/in/aldimhr  
+✍️ Medium: https://medium.com/@aldimhr  
+🤖 Telegram: https://t.me/x0projects
+
+<!-- <p align="center">
   <a href="https://aldimhr.dev">
     <img alt="Website" src="https://img.shields.io/badge/🌐_aldimhr.dev-111111?style=flat&logo=googlechrome&logoColor=white" />
   </a>
@@ -18,7 +25,7 @@
   <a href="https://t.me/x0projects">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
