@@ -8,8 +8,6 @@
 ---
 
 🌐 Portfolio: https://aldimhr.dev  
-💼 LinkedIn: https://linkedin.com/in/aldimhr  
-✍️ Medium: https://medium.com/@aldimhr  
 🤖 Telegram: https://t.me/x0projects
 
 <!-- <p align="center">
