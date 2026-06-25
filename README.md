@@ -33,8 +33,7 @@
 
 **[PolStocks](https://github.com/aldimhr/polstocks)** — Political sentiment analysis for stock market signals. Evidence-based sourcing with dedup and freshness decay.
 
-**[Crypto Futures Trading Analysis Dashboard](https://crypto.aldimhr.dev)**
-Multi-timeframe TA + Binance futures market data (funding, OI, L/S ratio, liquidation levels) with regime detection, composite scoring, and a self-improving feedback loop. FastAPI + Celery + React + PostgreSQL.
+**[Crypto Futures Trading Analysis Dashboard](https://crypto.aldimhr.dev)** — Multi-timeframe TA + Binance futures market data (funding, OI, L/S ratio, liquidation levels) with regime detection, composite scoring, and a self-improving feedback loop. FastAPI + Celery + React + PostgreSQL.
 
 **Telegram Bots** — 9 production bots, open source and live on [@x0projects](https://t.me/x0projects):
 
